@@ -31,7 +31,7 @@ namespace TCC.Forms.FormAdmin.AdminOption
                 MailMessage mail = new MailMessage();
                 SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
 
-                mail.From = new MailAddress("sudeduardo@gmail.com");
+                mail.From = new MailAddress("EmailRemetende");
                 mail.To.Add(adm.Email);
                 mail.IsBodyHtml = true;
                 mail.Subject = "Bem Vindo - " + adm.Nome;
@@ -42,7 +42,7 @@ namespace TCC.Forms.FormAdmin.AdminOption
                              "<hr><br>Use esse dados para acesar o programa!";
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("sudeduardo", "98241702");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("email", "SenhaEmail");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);
