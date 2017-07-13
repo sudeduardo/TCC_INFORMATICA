@@ -134,7 +134,7 @@ namespace TCC.Forms.FormAdmin.ProfessorOption
                 MailMessage mail = new MailMessage();
                 SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
 
-                mail.From = new MailAddress("sudeduardo@gmail.com");
+                mail.From = new MailAddress("EmailRementente");
                 mail.To.Add(prof.Email);
                 mail.IsBodyHtml = true;
                 mail.Subject = "Bem Vindo - " + prof.Nome;
@@ -145,7 +145,7 @@ namespace TCC.Forms.FormAdmin.ProfessorOption
                              "<hr><br>Use esse dados para acesar o programa!";
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("sudeduardo", "98241702");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("login", "senhaEmail");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);
