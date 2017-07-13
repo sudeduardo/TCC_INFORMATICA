@@ -1,0 +1,149 @@
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe.config
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Design.dll
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.dll
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC.FormLogin.resources
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Properties.Resources.resources
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csproj.GenerateResource.Cache
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminAlterarSenha.resources
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminPrincipal.resources
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminCadastro.resources
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\documents\visual studio 2015\Projects\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe.config
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Design.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC.FormLogin.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminAlterarSenha.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminPrincipal.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Properties.Resources.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe.config
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.pdb
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Design.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminAlterarSenha.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminCadastro.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminExclusao.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminPrincipal.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Properties.Resources.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.exe
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.pdb
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorCadastro.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorExclusao.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorUpdate.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisCadastro.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisExclusao.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisPesquisa.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisUpdate.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDependenteUpdate.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDepententesCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe.config
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Design.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.dll
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.xml
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.xml
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormLogin.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminAlterarSenha.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContas.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContasAdd.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminFrequencia.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminPrincipal.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorUpdate.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetoMatricula.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosPesquisa.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDependenteUpdate.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDepententesCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisCadastro.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisExclusao.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisPesquisa.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisUpdate.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormProfessor.FormProfessorPrincipal.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Properties.Resources.resources
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.exe
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.pdb
+C:\Users\CARLOS\Desktop\TrabalhoCapeta\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormLogin.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContas.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContasAdd.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminFrequencia.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetoMatricula.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosCadastro.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosExclusao.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosPesquisa.resources
+C:\Users\aluno\Desktop\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormProfessor.FormProfessorPrincipal.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe.config
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.exe
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.pdb
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.exe
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\TCC_desbugado.pdb
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Design.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.dll
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\bin\Debug\RestSharp.xml
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormLogin.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminAlterarSenha.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminCadastro.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.AdminOption.FormAdminExclusao.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContas.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminContasAdd.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminFrequencia.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.FormAdminPrincipal.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorCadastro.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorExclusao.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProfessorOption.FormProfessorUpdate.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetoMatricula.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosCadastro.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosExclusao.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ProjetosOption.FormProjetosPesquisa.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDependenteUpdate.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormAdmin.ResponsaveisOption.DependetesOption.FormDepententesCadastro.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisCadastro.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisExclusao.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisPesquisa.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.FormResponsaveisUpdate.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Forms.FormProfessor.FormProfessorPrincipal.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.Properties.Resources.resources
+C:\Users\aluno\Downloads\TrabalhoCapeta\TCC_desbugado\obj\Debug\TCC_desbugado.csproj.GenerateResource.Cache

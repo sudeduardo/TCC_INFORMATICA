@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B64BCE50-C154-4347-BF7A-49237B86F90A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TCC_desbugado</RootNamespace>
+    <AssemblyName>TCC_desbugado</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.2.3\lib\net46\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminContas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminContas.Designer.cs">
+      <DependentUpon>FormAdminContas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminContasAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminContasAdd.Designer.cs">
+      <DependentUpon>FormAdminContasAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminFrequencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminFrequencia.Designer.cs">
+      <DependentUpon>FormAdminFrequencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorUpdate.Designer.cs">
+      <DependentUpon>FormProfessorUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetoMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetoMatricula.Designer.cs">
+      <DependentUpon>FormProjetoMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosCadastro.Designer.cs">
+      <DependentUpon>FormProjetosCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosExclusao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosExclusao.Designer.cs">
+      <DependentUpon>FormProjetosExclusao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProjetosOption\FormProjetosPesquisa.Designer.cs">
+      <DependentUpon>FormProjetosPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDependenteUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDependenteUpdate.Designer.cs">
+      <DependentUpon>FormDependenteUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastroInner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastroInner.Designer.cs">
+      <DependentUpon>FormDepententesCadastroInner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastro.Designer.cs">
+      <DependentUpon>FormDepententesCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisUpdate.Designer.cs">
+      <DependentUpon>FormResponsaveisUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisCadastro.Designer.cs">
+      <DependentUpon>FormResponsaveisCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminAlterarSenha.Designer.cs">
+      <DependentUpon>FormAdminAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminCadastro.Designer.cs">
+      <DependentUpon>FormAdminCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminExclusao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\AdminOption\FormAdminExclusao.Designer.cs">
+      <DependentUpon>FormAdminExclusao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\FormAdminPrincipal.Designer.cs">
+      <DependentUpon>FormAdminPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorCadastro.Designer.cs">
+      <DependentUpon>FormProfessorCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorExclusao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin\ProfessorOption\FormProfessorExclusao.Designer.cs">
+      <DependentUpon>FormProfessorExclusao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorChamada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorChamada.Designer.cs">
+      <DependentUpon>FormProfessorChamada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorPrincipal.Designer.cs">
+      <DependentUpon>FormProfessorPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorProjetos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormProfessor\FormProfessorProjetos.Designer.cs">
+      <DependentUpon>FormProfessorProjetos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Admin.cs" />
+    <Compile Include="Model\Aula.cs" />
+    <Compile Include="Model\ChamadaResponsavel.cs" />
+    <Compile Include="Model\ChamadaDependente.cs" />
+    <Compile Include="Model\Conexao.cs" />
+    <Compile Include="Model\Contas.cs" />
+    <Compile Include="Model\Curso.cs" />
+    <Compile Include="Model\Dependente.cs" />
+    <Compile Include="Model\Email.cs" />
+    <Compile Include="Model\Professor.cs" />
+    <Compile Include="Model\Responsavel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\AdminOption\FormAdminAlterarSenha.resx">
+      <DependentUpon>FormAdminAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\AdminOption\FormAdminCadastro.resx">
+      <DependentUpon>FormAdminCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\AdminOption\FormAdminExclusao.resx">
+      <DependentUpon>FormAdminExclusao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\FormAdminContas.resx">
+      <DependentUpon>FormAdminContas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\FormAdminContasAdd.resx">
+      <DependentUpon>FormAdminContasAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\FormAdminFrequencia.resx">
+      <DependentUpon>FormAdminFrequencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\FormAdminPrincipal.resx">
+      <DependentUpon>FormAdminPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProfessorOption\FormProfessorCadastro.resx">
+      <DependentUpon>FormProfessorCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProfessorOption\FormProfessorExclusao.resx">
+      <DependentUpon>FormProfessorExclusao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProfessorOption\FormProfessorUpdate.resx">
+      <DependentUpon>FormProfessorUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProjetosOption\FormProjetoMatricula.resx">
+      <DependentUpon>FormProjetoMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProjetosOption\FormProjetosCadastro.resx">
+      <DependentUpon>FormProjetosCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProjetosOption\FormProjetosExclusao.resx">
+      <DependentUpon>FormProjetosExclusao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ProjetosOption\FormProjetosPesquisa.resx">
+      <DependentUpon>FormProjetosPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDependenteUpdate.resx">
+      <DependentUpon>FormDependenteUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastroInner.resx">
+      <DependentUpon>FormDepententesCadastroInner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ResponsaveisOption\DependetesOption\FormDepententesCadastro.resx">
+      <DependentUpon>FormDepententesCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisCadastro.resx">
+      <DependentUpon>FormResponsaveisCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdmin\ResponsaveisOption\FormResponsaveisUpdate.resx">
+      <DependentUpon>FormResponsaveisUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormProfessor\FormProfessorChamada.resx">
+      <DependentUpon>FormProfessorChamada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormProfessor\FormProfessorPrincipal.resx">
+      <DependentUpon>FormProfessorPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormProfessor\FormProfessorProjetos.resx">
+      <DependentUpon>FormProfessorProjetos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ExclurAdmin.jpg" />
+    <None Include="Resources\ExclurAdmin.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
